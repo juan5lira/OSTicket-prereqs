@@ -47,6 +47,14 @@ Azure on windows
 <p>
 Remote Labs
 </p>
+
+
+<img width="997" height="1007" alt="image" src="https://github.com/user-attachments/assets/bc84a202-4205-4e2a-b43a-551c23805cd4" />
+<img width="797" height="767" alt="image" src="https://github.com/user-attachments/assets/3515aaa1-eedb-45c7-951c-535036ba8039" />
+<img width="810" height="877" alt="image" src="https://github.com/user-attachments/assets/8dd9a70e-5a74-4f27-add1-b1b9d11eaaf6" />
+<img width="593" height="926" alt="image" src="https://github.com/user-attachments/assets/85dd1d85-4968-4f48-939e-265ee9fcb454" />
+<img width="816" height="916" alt="image" src="https://github.com/user-attachments/assets/0fd5d9b0-46e6-4422-8d88-2ee1cfd93aca" />
+
 <br />
 
 <br />

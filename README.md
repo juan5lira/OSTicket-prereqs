@@ -24,9 +24,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure
+
 - OSTicket
-- Remote Desktop
+- Information internet Services Manager
   
 
 <h2>Installation Steps</h2>

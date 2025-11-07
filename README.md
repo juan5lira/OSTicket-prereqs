@@ -51,10 +51,9 @@ Remote Labs
 
 
 <img width="997" height="1007" alt="image" src="https://github.com/user-attachments/assets/bc84a202-4205-4e2a-b43a-551c23805cd4" />
-<img width="797" height="767" alt="image" src="https://github.com/user-attachments/assets/3515aaa1-eedb-45c7-951c-535036ba8039" />
-<img width="810" height="877" alt="image" src="https://github.com/user-attachments/assets/8dd9a70e-5a74-4f27-add1-b1b9d11eaaf6" />
-<img width="593" height="926" alt="image" src="https://github.com/user-attachments/assets/85dd1d85-4968-4f48-939e-265ee9fcb454" />
-<img width="816" height="916" alt="image" src="https://github.com/user-attachments/assets/0fd5d9b0-46e6-4422-8d88-2ee1cfd93aca" />
+
+
+
 
 STEP 1
 
@@ -73,6 +72,14 @@ We will use the files in this folder to install osTicket and some of the depende
 Install / Enable IIS in Windows WITH CGI
 World Wide Web Services -> Application Development Features -> [X] CGI
 
+
+
+
+<img width="797" height="767" alt="image" src="https://github.com/user-attachments/assets/3515aaa1-eedb-45c7-951c-535036ba8039" />
+
+
+
+
 STEP 3
 
 From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
@@ -90,6 +97,9 @@ STEP 6
 From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
 From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+
+<img width="810" height="877" alt="image" src="https://github.com/user-attachments/assets/8dd9a70e-5a74-4f27-add1-b1b9d11eaaf6" />
+
 
 STEP 7
 
@@ -115,6 +125,14 @@ From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip
 Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 
 Reload IIS (Open IIS, Stop and Start the server)
+
+
+
+
+<img width="593" height="926" alt="image" src="https://github.com/user-attachments/assets/85dd1d85-4968-4f48-939e-265ee9fcb454" />
+
+
+
 
 STEP 10
 
@@ -148,6 +166,11 @@ New Permissions -> Everyone -> All
 Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
+<img width="816" height="916" alt="image" src="https://github.com/user-attachments/assets/0fd5d9b0-46e6-4422-8d88-2ee1cfd93aca" />
+
+
+
+
 
 STEP 14
 
